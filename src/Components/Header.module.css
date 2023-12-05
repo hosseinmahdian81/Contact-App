@@ -1,0 +1,30 @@
+.contener{
+    text-align: center;
+    margin: auto;
+    padding: 50px  0;
+}
+
+.contener h1{
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color:rgb(45, 195, 201);
+    text-shadow: 1px 1px 3px;
+}
+
+.contener p{
+    padding:3px 5px;
+    color:grey;
+}
+
+.contener p span{
+    border-radius: 10px ;
+    background: rgb(45, 195, 201);  
+    padding:3px 5px;
+    transition: all .2s ease-in-out;
+    color:black;
+}
+
+.contener p span:hover{
+    /* background:rgb(18, 138, 229); */
+    color:white;
+}

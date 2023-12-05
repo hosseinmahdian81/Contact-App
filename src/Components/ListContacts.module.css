@@ -1,0 +1,19 @@
+.titer{
+    color: aqua;
+    margin-right: 850px;
+    font-size: 2.5rem;
+    color:rgb(45, 195, 201);
+    text-shadow: 1px 1px 3px;
+}
+
+.div{
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.233);
+    height: fit-content;
+}
+
+.massage{
+    padding:30px;
+    text-align:center;
+}
